@@ -21,4 +21,4 @@ Project Authors: Jonathan Browne, Blake Williams
   upon pressing the attack button
 * When running the .jar exe version of the game the scoreboard in the menu and death/victory screen does not work
 * Very occassionally the game may freeze and will have to be restarted
-* Sounds do not work in the .jar exe version of the game and mostly do not work runnin the game through the eclipse IDE
+* Sounds do not work in the .jar exe version of the game and mostly do not work running the game through the eclipse IDE
